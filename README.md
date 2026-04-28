@@ -1,7 +1,7 @@
 
 # 1.设计灵感与核心痛点
 
-**再见了，chrome默认图标~**
+**再见了，windows桌面的所有chrome默认图标~**
 
 <img width="748" height="708" alt="IMG_202604283288_748x708" src="https://github.com/user-attachments/assets/31d8979d-8b98-4b1a-a1c1-a3be5a06d98c" />
 
@@ -20,17 +20,14 @@
 
 更核心的是，它会在底层将抓取到的所有图像数据，强制重构并转换为 **100% 纯正的 Windows 原生 .ico 格式**。
 
+# 2.处理流程图
 **只需输入一个网址**，立刻还你一个高清、真实且与系统完美兼容的专属桌面图标。
 
 把网站图标优雅地搬到桌面，从未如此简单。
 
-# 2.处理流程图
-
 <img width="2816" height="1536" alt="Gemini_Generated_Image_b0ohj5b0ohj5b0oh" src="https://github.com/user-attachments/assets/4532814b-b29e-422f-bfbe-30a657f762d6" />
 
 
-
-**2026.04.14**
 
 
 # 3.使用教程
@@ -41,7 +38,7 @@
 ``` pip install requests beautifulsoup4 tqdm pillow``` 
 
 3
-使用cmd或powershell 运行py文件
+使用cmd或powershell 运行本py文件
 
 ```python Get-Website-ICO-to-Desktop V1.1.py ```
 
